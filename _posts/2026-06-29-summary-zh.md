@@ -5,355 +5,280 @@ date: 2026-06-29
 lang: zh
 ---
 
-> 从 79 条内容中筛选出 15 条重要资讯。
+> 从 78 条内容中筛选出 12 条重要资讯。
 
 ---
 
-1. [比亚迪自研 4nm 智驾芯片明年首搭腾势](#item-1) ⭐️ 9.0/10
-2. [谷歌 AI 同行评审系统处理 1 万篇论文](#item-2) ⭐️ 9.0/10
-3. [HackerRank 开源 ATS 暴露简历评分不一致问题](#item-3) ⭐️ 8.0/10
-4. [GLM 5.2 声称在网络安全基准测试中超越 Claude](#item-4) ⭐️ 8.0/10
-5. [Pollen 首席执行官利用虚假 DMCA 删除批评文章，谷歌协助](#item-5) ⭐️ 8.0/10
-6. [使用 Claude Code 获取 MRI 第二意见引发辩论](#item-6) ⭐️ 8.0/10
-7. [布朗大学教授揭露大规模 AI 作弊事件](#item-7) ⭐️ 8.0/10
-8. [京东方康宁玻璃基板合作推动股价暴涨 60%](#item-8) ⭐️ 8.0/10
-9. [Sand.ai 获超亿美元融资，曹越谈视频为何是世界模型关键](#item-9) ⭐️ 8.0/10
-10. [EML 树被证明是通用逼近器](#item-10) ⭐️ 8.0/10
-11. [Cerebras 与 OpenAI 交易排挤小型 AI 初创公司](#item-11) ⭐️ 8.0/10
-12. [可编辑权重的极小 Transformer 交互学习工具](#item-12) ⭐️ 8.0/10
-13. [三星与 SK 海力士计划 6480 亿美元 AI 投资](#item-13) ⭐️ 8.0/10
-14. [算法误判，普朗克 1940 年代论文被撤稿](#item-14) ⭐️ 8.0/10
-15. [长鑫存储与腾讯签 30 亿美元 DRAM 供应协议](#item-15) ⭐️ 8.0/10
+1. [美国最高法院裁定地理围栏搜查令需受宪法保护](#item-1) ⭐️ 9.0/10
+2. [谷歌 AI 审稿人处理 1 万篇论文，周转时间缩至 30 分钟](#item-2) ⭐️ 9.0/10
+3. [vLLM v0.24.0：支持 MiniMax-M3 并优化 DeepSeek-V4](#item-3) ⭐️ 8.0/10
+4. [火箭实验室拟 80 亿美元收购铱星](#item-4) ⭐️ 8.0/10
+5. [WATaBoy：Game Boy JIT 编译至 WASM 超越原生解释器](#item-5) ⭐️ 8.0/10
+6. [运行 CUDA 内核时会发生什么？](#item-6) ⭐️ 8.0/10
+7. [欧洲 ISP 要求版权方为过度屏蔽负责](#item-7) ⭐️ 8.0/10
+8. [Meta 利用 Instagram 照片为智能眼镜做广告](#item-8) ⭐️ 8.0/10
+9. [Ornith-1.0：用于代理式编程的开源权重 LLM](#item-9) ⭐️ 8.0/10
+10. [比亚迪自研智驾芯片璇玑 A3 预计 2027 年首搭](#item-10) ⭐️ 8.0/10
+11. [EML 树被证明是通用逼近器](#item-11) ⭐️ 8.0/10
+12. [长鑫存储与腾讯签近 30 亿美元 DRAM 供应协议](#item-12) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [比亚迪自研 4nm 智驾芯片明年首搭腾势](https://36kr.com/newsflashes/3874197541344262?f=rss) ⭐️ 9.0/10
+## [美国最高法院裁定地理围栏搜查令需受宪法保护](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision) ⭐️ 9.0/10
 
-比亚迪计划明年在腾势品牌的新车上首次搭载其自研的 4nm 自动驾驶芯片“璇玑 A3”。该芯片单颗算力超过 700 TOPS，三颗协同总算力超过 2100 TOPS，支持 L3/L4 自动驾驶。 这代表了中国车企在高端自动驾驶芯片领域的重大突破，有望减少对外部供应商的依赖，并加速 L3/L4 自动驾驶在量产车中的应用。 该芯片采用 4nm 工艺，已开始量产。比亚迪称其单位算力功耗较同级产品低 20%，结合自研算法优化后，算力利用率提升 100%。
+美国最高法院裁定，允许执法部门获取特定区域内所有移动设备位置数据的地理围栏搜查令，必须遵守第四修正案关于合理根据和特定性的保护要求。 这一里程碑式的裁决极大地限制了无证地理定位搜查，是数字隐私的重大胜利，迫使执法部门对此类搜索必须获得针对性的搜查令。 该案源于一起银行抢劫调查，谷歌的 Sensorvault 提供了案发地点附近 19 台设备的位置数据；法院驳回了政府关于用户对与第三方共享的数据缺乏合理隐私期待的主张。
 
-rss · 36氪 · 6月29日 11:57
+hackernews · cdrnsf · 6月29日 15:54 · [社区讨论](https://news.ycombinator.com/item?id=48720924)
 
-**背景**: TOPS（每秒万亿次操作）是衡量 AI 芯片性能的关键指标，表示芯片每秒能执行多少万亿次运算。4nm 工艺是一种半导体制造节点，可实现更高的晶体管密度和更好的能效。比亚迪正在构建自己的芯片生态，以在竞争激烈的电动车市场中形成差异化优势。
+**背景**: 地理围栏搜查令是一种反向搜查令，强制谷歌等技术公司识别虚拟地理边界内的所有设备。这种搜查令被广泛使用，但因允许无嫌疑的大规模监控而受到批评。第四修正案保护免受不合理搜查，但法院对自愿与第三方共享的位置数据是否仍受隐私保护存在争议。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.windowscentral.com/hardware/laptops/what-is-tops">What is TOPS and why is it important for AI ? | Windows Central</a></li>
-<li><a href="https://www.wikiwand.com/en/articles/5_nm_process">5 nm process - Wikiwand</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Geofence_warrant">Geofence warrant</a></li>
+<li><a href="https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/">In major privacy win, Supreme Court rules geofence warrants are ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#自动驾驶`, `#芯片`, `#比亚迪`, `#新能源汽车`, `#AI芯片`
+**社区讨论**: 评论者注意到该裁决对 Flock 摄像头等技术的影响，并讨论了阿利托、托马斯和巴雷特大法官的异议。一些人提到了地理定位监视的历史案例（如保拉·布罗德韦尔的识别），其他人则对裁决的范围持谨慎乐观态度。
+
+**标签**: `#privacy`, `#supreme court`, `#geofence`, `#fourth amendment`, `#surveillance`
 
 ---
 
 <a id="item-2"></a>
-## [谷歌 AI 同行评审系统处理 1 万篇论文](https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/) ⭐️ 9.0/10
+## [谷歌 AI 审稿人处理 1 万篇论文，周转时间缩至 30 分钟](https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/) ⭐️ 9.0/10
 
-谷歌在 ICML 和 STOC 会议上部署了代理型 AI 同行评审系统，以 30 分钟的处理时间评审了约 1 万篇论文。正式论文报告称，该系统在检测数学错误方面比零样本提示方法提高了 34%。 这为在会议规模上实现 AI 自动化科学评审开创了先例，可能改变计算机科学及其他领域的同行评审效率和准确性。它解决了日益增长的审稿人负担，并可能增强科研诚信。 该代理型 AI 系统采用多步骤流程，可能涉及工具使用和自主推理，从而实现了比零样本提示更高的错误检测率。该系统处理了来自 ICML 和 STOC（顶级机器学习和理论会议）的论文。
+谷歌部署了一个代理式 AI 系统，对提交给 ICML 和 STOC 会议的约 1 万篇论文进行审稿，实现 30 分钟周转时间，比零样本提示多检测出 34%的数学错误。研究结果现已正式发表在一篇论文中。 这表明大规模 AI 辅助同行评审的可行性，可能通过减轻审稿人负担和加快出版周期来改变科学出版流程。它为学术会议的自动化质量控制树立了先例。 该代理式 AI 系统自主运行，使用多个专门代理来分析论文的数学正确性和清晰度。相比零样本提示的 34%改进凸显了结构化基于代理的推理相对于直接 LLM 查询的优势。
 
 reddit · r/MachineLearning · /u/Justgototheeffinmoon · 6月29日 10:05
 
-**背景**: 代理型 AI 是指能够自主追求目标、使用工具并采取行动的 AI 系统。传统的同行评审依赖人类专家，耗时且容易存在偏见。零样本提示是一种提示工程技术，模型不获得示例。谷歌的系统将 AI 代理与同行评审相结合，旨在自动化评审过程的部分环节。
+**背景**: 代理式 AI 指能够在有限人类监督下自主追求目标的 AI 系统，通常使用多个专门代理。零样本提示是一种不给 LLM 任何示例就让其执行任务的技术，仅依赖其预训练知识。这项研究将代理式 AI 应用于同行评审这一传统上人力密集的任务。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Agentic_AI">Agentic AI</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Zero-shot_prompting">Zero-shot prompting</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11858604/">Artificial Intelligence in Peer Review: Enhancing Efficiency While Preserving Integrity - PMC</a></li>
+<li><a href="https://www.ibm.com/think/topics/agentic-ai">What is Agentic AI? | IBM</a></li>
+<li><a href="https://cloud.google.com/discover/what-is-agentic-ai">What is agentic AI? Definition and differentiators | Google Cloud</a></li>
+<li><a href="https://aws.amazon.com/what-is/agentic-ai/">What is Agentic AI? - Agentic AI Explained - AWS</a></li>
+<li><a href="https://www.linkedin.com/pulse/prompt-engineering-course-essential-few-shot-zero-shot-prompting-3vcnc">Prompt Engineering Course Essential: Few-Shot and Zero - Shot ...</a></li>
+<li><a href="https://medium.com/@albert_88839/zero-in-on-the-right-responses-with-zero-shot-and-few-shot-prompting-f50fb154af4d">Zero in on the Right Responses with Zero - Shot and... | Medium</a></li>
+<li><a href="https://promplify.ai/blog/zero-shot-prompting/">Zero - Shot Prompting : How to Get Great Results... — Promplify Blog</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#peer review`, `#scientific integrity`, `#automation`, `#machine learning`
+**标签**: `#AI`, `#peer review`, `#machine learning`, `#scientific review`, `#Google`
 
 ---
 
 <a id="item-3"></a>
-## [HackerRank 开源 ATS 暴露简历评分不一致问题](https://danunparsed.com/p/hackerrank-open-source-ats) ⭐️ 8.0/10
+## [vLLM v0.24.0：支持 MiniMax-M3 并优化 DeepSeek-V4](https://github.com/vllm-project/vllm/releases/tag/v0.24.0) ⭐️ 8.0/10
 
-HackerRank 将其申请人追踪系统（ATS）开源，分析显示同样的简历在不同运行中分别获得 90、74 和 88 分，突显了 AI 驱动的简历评分不一致问题。 这很重要，因为许多公司依赖 AI 筛选简历，这种不一致性引发了对招聘中偏见、公平性和法律合规性的担忧，尤其是在欧盟反歧视法律下。 分析使用 HackerRank 的开源 ATS 以低温设置（0.1）评估同一份简历，但每次得分不同。HackerRank 的首席技术官澄清，该工具并未用于实际候选人筛选，也并非一个真正的 ATS。
+vLLM v0.24.0 已发布，新增了对 MiniMax-M3 模型的支持，并对 DeepSeek-V4 进行了重大优化。该版本包含来自 256 位贡献者的 571 次提交。 此版本标志着 vLLM 作为高性能推理引擎的重大进步，增强了对前沿模型的支持并提高了效率。对 DeepSeek-V4 的优化和 Model Runner V2 的扩展使整个 LLM 服务生态受益。 重要技术新增包括 MiniMax 稀疏注意力（MSA）支持，附带 BF16/FP8 索引器和 MXFP4，为 DeepSeek-V4 引入 FlashInfer 稀疏索引缓存（TTFT 提升 2-4%），以及统一工具调用/推理解析的新的流式解析引擎。该版本还集成了 DeepEP v2 以实现专家并行，并将设备选择移出内部的 CUDA_VISIBLE_DEVICES 管理。
 
-hackernews · sambellll · 6月29日 01:44 · [社区讨论](https://news.ycombinator.com/item?id=48713832)
+github · khluu · 6月29日 19:41
 
-**背景**: 申请人追踪系统（ATS）是雇主用来管理和筛选求职申请的软件工具。基于 AI 的 ATS 通常依赖大型语言模型来评分简历，但由于其随机性，这些模型可能产生不一致和有偏见的结果。欧盟的反歧视法律要求招聘过程公平透明，而 AI 驱动系统如果不可预测或存在偏见，可能违反这些法律。
+**背景**: vLLM 是一个用于快速 LLM 推理和服务的开源库，以其高吞吐量和灵活性而广泛使用。MiniMax-M3 是近期以长上下文推理著称的多模态模型，而 DeepSeek-V4 是一个主要语言模型，通过稀疏注意力和专家并行等先进优化技术受益。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.reddit.com/r/leetcode/comments/1tynum1/hacker_rank_open_sourced_their_ats_system_so_you/">Hacker Rank open sourced their ATS system so you can know exactly why AI rejected your resume - Reddit</a></li>
-<li><a href="https://www.hackerrank.com/features/integrations">HackerRank Integrations | Connect Your Favorite Software</a></li>
-<li><a href="https://www.millennialfrustration.com/post/the-resume-black-hole-how-applicant-tracking-systems-are-rigged-against-you">The Resume Black Hole: How Applicant Tracking Systems Are...</a></li>
+<li><a href="https://github.com/flashinfer-ai/flashinfer">GitHub - flashinfer-ai/flashinfer: FlashInfer: Kernel Library for LLM Serving · GitHub</a></li>
+<li><a href="https://vllm.ai/blog/2026-06-12-minimax-m3-vllm">MiniMax M3 in vLLM: Day-0 Serving for 1M-Token Multimodal Reasoning</a></li>
+<li><a href="https://arxiv.org/abs/2501.01005">[2501.01005] FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者对 AI 简历筛选在欧盟的合法性表示担忧，有人指出欧盟反歧视法律可能要求真正的随机筛选，而非基于 AI 的决策。另一评论者赞赏该分析揭示了 LLM 的随机性缺陷。同时，HackerRank 首席技术官澄清，该开源工具并非用于 HackerRank 的招聘，也并非打算作为 ATS 使用。
-
-**标签**: `#AI hiring`, `#resume screening`, `#bias`, `#ATS`, `#HackerRank`
+**标签**: `#vllm`, `#LLM inference`, `#model optimization`, `#open source`, `#release`
 
 ---
 
 <a id="item-4"></a>
-## [GLM 5.2 声称在网络安全基准测试中超越 Claude](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) ⭐️ 8.0/10
+## [火箭实验室拟 80 亿美元收购铱星](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) ⭐️ 8.0/10
 
-Semgrep 的博客报道称，来自中国 AI 公司 z.AI 的开源权重模型 GLM 5.2 在其内部网络安全基准测试中超越了 Anthropic 的 Claude，引发了社区广泛讨论。 这表明开源大语言模型在网络安全等专业领域快速进步，可能降低安全工具成本并提高可及性，同时挑战了专有模型的统治地位。 GLM 5.2 是一个 7440 亿参数的混合专家模型，以开放权重形式发布，支持本地部署和微调。但其庞大的规模需要大量硬件资源，且基准测试结果可能无法推广到所有网络安全任务。
+火箭实验室于 6 月 29 日宣布，将以现金加股票的方式收购铱星通信公司，交易价值约 80 亿美元，每股收购价为 54 美元。该交易已获双方董事会批准，预计 2027 年年中完成，尚需监管机构和股东批准。 此次合并将打造一家完全集成的太空公司，融合火箭实验室的发射和航天器制造能力与铱星的全球低轨卫星网络、L 波段频谱及 500 多家合作伙伴。这使火箭实验室能够进入卫星物联网、直连设备及 PNT 服务市场，同时确保稳定的发射基线，类似 SpaceX 的星链策略。 铱星运营着 66 颗活跃低轨卫星，2025 年营收为 8.717 亿美元，EBITDA 利润率为 57%。火箭实验室已获得 36 亿美元过桥贷款承诺以资助此次收购。
 
-hackernews · jms703 · 6月28日 17:50 · [社区讨论](https://news.ycombinator.com/item?id=48709670)
+hackernews · everfrustrated · 6月29日 14:09 · [社区讨论](https://news.ycombinator.com/item?id=48719485)
 
-**背景**: 大语言模型（LLM）越来越多地在网络安全漏洞检测等专业基准上进行评估。开放权重模型允许开发者检查、修改和自行托管模型，与闭源 API 相比提供了透明度和控制力。GLM 5.2 是中国 AI 实验室推出的一系列高性能开放模型的一部分。
+**背景**: 铱星卫星星座最初由摩托罗拉开发，于 1998 年投入运营，由 66 颗活跃低轨卫星组成，通过 L 波段和星间链路提供全球语音和数据覆盖。它服务于超过 255 万用户，包括卫星电话和物联网设备，是唯一提供真正全球极地全覆盖的网络。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.mindstudio.ai/blog/what-is-glm-5-2-open-weight-model">What Is GLM 5.2? The Open-Weight Model Beating GPT 5.5 on Design Benchmarks | MindStudio</a></li>
-<li><a href="https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6">What is GLM-5.2? Another open-source Chinese AI model has Silicon Valley's attention.</a></li>
-<li><a href="https://arxiv.org/html/2405.20441v2">SECURE: Benchmarking Large Language Models for Cybersecurity Advisory</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Iridium_satellite_constellation">Iridium satellite constellation</a></li>
+<li><a href="https://grokipedia.com/page/Iridium_satellite_constellation">Iridium satellite constellation</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区意见分歧：一些用户称赞 GLM 5.2 是日常编程和代理任务的高性价比主力模型，而另一些人质疑基准测试的方法论，并指出 DeepSeek V4 Pro 等其他模型在某些测试中表现更好。同时也有对硬件需求（7530 亿参数）的担忧。
+**社区讨论**: 社区反应不一：有人担忧太空垃圾增加和环境影响，也有人强调其战略价值类似 SpaceX 利用星链拉动发射需求。有评论指出火箭实验室从新西兰企业转变为美国主体。
 
-**标签**: `#LLM`, `#benchmarks`, `#open-source`, `#GLM`, `#AI`
+**标签**: `#space`, `#acquisition`, `#satellite`, `#rocket-lab`, `#iridium`
 
 ---
 
 <a id="item-5"></a>
-## [Pollen 首席执行官利用虚假 DMCA 删除批评文章，谷歌协助](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) ⭐️ 8.0/10
+## [WATaBoy：Game Boy JIT 编译至 WASM 超越原生解释器](https://humphri.es/blog/WATaBoy/) ⭐️ 8.0/10
 
-Pollen 首席执行官 Callum Negus-Fancey 和 CTO Matt Wright 据称向 Google 提交了一份虚假的 DMCA 删除通知，要求删除一篇 2022 年关于该公司衰落的批评博客文章，而 Google 在通知明显无效的情况下仍予以执行。 这一事件凸显了初创公司滥用 DMCA 删除系统来审查批评报道的问题，并引发了对平台责任的担忧——像 Google 这样的中间商在删除内容前未能严格审查声明的有效性。 据报道，该 DMCA 通知使用了虚假姓名和地址，但 Google 仍从搜索结果中删除了该文章；作者 Gergely Orosz 指出，这是试图“从互联网上抹去”关于 Pollen 领导层的负面信息。
+一位本科开发者撰文介绍了 WATaBoy，这是一款 Game Boy 模拟器，通过动态将 SM83 指令重新编译为 WebAssembly，利用浏览器的 JIT 异常，在 iOS 上比原生解释器表现更好。 这项研究展示了一种巧妙的方法，在苹果限制 JIT（仅浏览器例外）的 iOS 上实现 JIT 编译，从而在浏览器环境中实现高性能模拟。 WATaBoy 利用浏览器的 WebAssembly JIT 在运行时编译热门的 Game Boy 代码路径，性能超越了同一设备上的原生解释器。
 
-hackernews · taubek · 6月29日 09:28 · [社区讨论](https://news.ycombinator.com/item?id=48716902)
+hackernews · energeticbark · 6月29日 15:02 · [社区讨论](https://news.ycombinator.com/item?id=48720190)
 
-**背景**: 数字千年版权法（DMCA）为版权所有者提供了请求删除侵权内容的机制，但该机制经常被滥用于审查。Pollen 是一家曾估值 6.3 亿英镑的赛事科技初创公司，于 2022 年破产，相关文章详细描述了其有争议的做法。作为搜索引擎，Google 通常遵守 DMCA 通知以保持安全港保护，但批评者认为它没有充分核实声明。
+**背景**: 苹果的 iOS 限制阻止应用程序进行 JIT 编译，但浏览器的 JavaScript 引擎除外。通过针对 WebAssembly（在浏览器 JIT 内运行），WATaBoy 有效绕过了这一限制。Game Boy 模拟通常依赖解释 SM83 CPU 指令，这比 JIT 编译慢。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/">Pollen tried to remove my article about Callum Negus-Fancey, and Google ...</a></li>
-<li><a href="https://www.siliconreport.com/pollen-allegedly-leveraged-googles-systems-to-attempt-article-removal-35ae53af">Pollen Allegedly Leveraged Google's Systems to Attempt Article Removal ...</a></li>
-<li><a href="https://www.bbc.co.uk/bbcthree/article/43b75230-a435-4b84-987d-7ecbe76c995e">Pollen: How a £630m UK festival firm went bust - BBC</a></li>
+<li><a href="https://humphri.es/blog/WATaBoy/">WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48720190">WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter | Hacker News</a></li>
+<li><a href="https://github.com/EnergeticBark/WATaBoy">GitHub - EnergeticBark/WATaBoy: A Game Boy emulator with an...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论对 DMCA 滥用表示愤怒，用户指出这是平台纵容的常见策略。有人呼吁对删除通知强制要求政府身份证验证，而另一些人则强调斯特赖桑德效应——试图压制文章反而引起了更多关注。一位评论者指出，虚假通知缺乏法律责任，因为执法很少。
+**社区讨论**: 评论者称赞该项目对本科生来说令人印象深刻。有人指出 Firefox 比 Chrome/Safari 慢 25%，引发了对浏览器差异的好奇。其他人强调 WASM 开销（约 20%）远小于解释器开销（约 1000%），因此加速在预料之中，但仍然很酷。
 
-**标签**: `#DMCA`, `#censorship`, `#Google`, `#tech-ethics`, `#legal`
+**标签**: `#JIT`, `#WebAssembly`, `#GameBoy emulation`, `#performance`, `#browser tech`
 
 ---
 
 <a id="item-6"></a>
-## [使用 Claude Code 获取 MRI 第二意见引发辩论](https://antoine.fi/mri-analysis-using-claude-code-opus) ⭐️ 8.0/10
+## [运行 CUDA 内核时会发生什么？](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/) ⭐️ 8.0/10
 
-一位用户记录了使用 Anthropic 的 AI 编码代理 Claude Code 分析其肩部 MRI 并获得第二意见的经历，引发了关于 AI 在医学影像中可靠性的热烈讨论。 这个案例突显了患者越来越多地求助于 AI 获取医疗第二意见的趋势，但也强调了在高风险的医疗决策中关于准确性、信任以及误诊可能性的关键担忧。 Claude Code 主要是一个基于终端的编码助手，并非医疗诊断工具，用户可能利用其多模态能力来分析 MRI 图像。一位放射科医生评论者指出，与放射科医生的训练相比，这些模型通常难以准确阅读医学图像，因为公开可用的训练数据有限。
+一篇详细的博客文章，解释了从 CUDA 内核启动到 GPU 执行的全过程，涵盖了门铃（doorbell）和 QMD 机制。
 
-hackernews · engmarketer · 6月28日 16:35 · [社区讨论](https://news.ycombinator.com/item?id=48708941)
+hackernews · mezark · 6月29日 13:11 · [社区讨论](https://news.ycombinator.com/item?id=48718863)
 
-**背景**: 磁共振成像（MRI）可生成身体内部结构的详细图像。放射科医生是专门解读此类扫描结果的医学专家。Claude Code 是 Anthropic 开发的 AI 代理，能够理解代码、运行命令和处理图像，但未经过医学诊断的训练或批准。这场辩论反映了可获取的 AI 前景与严格医学验证需求之间的广泛矛盾。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
-<li><a href="https://docs.anthropic.com/en/docs/claude-code/overview">Claude Code overview - Anthropic</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区观点不一：一些用户赞赏可以无时间压力地向 AI 提问（如 AceJohnny2），而另一些则分享了误诊的警示故事（kgeist）。一位自称放射科医生的用户（themantalope）强烈批评 AI 的可靠性，指出模型缺乏足够的公开医学图像及报告。另一条评论（voidUpdate）质疑 LLM 如何实际解读图像数据，认为图像到文本的转换可能丢失关键信息。
-
-**标签**: `#AI`, `#healthcare`, `#medical imaging`, `#Claude Code`, `#radiology`
+**标签**: `#CUDA`, `#GPU`, `#kernel launch`, `#NVIDIA`, `#graphics programming`
 
 ---
 
 <a id="item-7"></a>
-## [布朗大学教授揭露大规模 AI 作弊事件](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html) ⭐️ 8.0/10
+## [欧洲 ISP 要求版权方为过度屏蔽负责](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/) ⭐️ 8.0/10
 
-布朗大学的一位教授发现，学生在一次考试中大多数使用了 AI 生成的答案，并向校方报告了此事，但最初得到的回应冷淡。 这一事件凸显了 AI 作弊在高等教育中日益严峻的挑战，迫使大学重新思考评估方式和学术诚信政策。 在布朗大学任教 34 年的经济学家 Serrano 教授向高层报告了此事，但校长和院长保持沉默，直到案件提交至学术规范委员会，才被认定为一次'警钟'。
+欧洲互联网服务提供商（ISP）正在推动在法律上让版权方对过度屏蔽（overblocking）造成的损害负责，即在版权执法过程中错误地屏蔽合法内容。 这一政策转变可能会遏制滥用删除通知的行为，保护互联网自由，影响整个欧洲版权执法与言论自由间的平衡。 过度屏蔽通常由自动内容过滤器或模糊的法院命令导致，其屏蔽范围超出预定目标。ISP 认为版权方应为这种过度行为承担责任。
 
-hackernews · geox · 6月28日 16:41 · [社区讨论](https://news.ycombinator.com/item?id=48708991)
+hackernews · Brajeshwar · 6月29日 16:07 · [社区讨论](https://news.ycombinator.com/item?id=48721072)
 
-**背景**: AI 生成文本的检测是一场生成模型与检测技术之间的对抗性军备竞赛。方法包括统计指标、神经模型和水印技术。LLM 水印技术将不可见的标识符嵌入文本，用于验证来源，可能有助于学术诚信的执行。
+**背景**: 过度屏蔽是指互联网过滤器或屏蔽命令意外地屏蔽了合法内容。在欧洲，围绕欧盟版权指令第 17 条的持续辩论凸显了自动过度屏蔽的问题。ISP 现在寻求法律途径，让版权方对造成的损害负责。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.emergentmind.com/topics/ai-text-detectors">AI Text Detectors : Methods & Challenges</a></li>
-<li><a href="https://arxiv.org/html/2312.07913v4/">A Survey of Text Watermarking in the Era of Large Language Models</a></li>
-<li><a href="https://antispoofing.org/ai-generated-text-detection-methods/">AI - Generated Text Detection Methods — Antispoofing Wiki</a></li>
+<li><a href="https://de.wikipedia.org/wiki/Overblocking">Overblocking – Wikipedia</a></li>
+<li><a href="https://www.techdirt.com/tag/overblocking/">Overblocking stories at Techdirt.</a></li>
+<li><a href="https://legalblogs.wolterskluwer.com/copyright-blog/youtube-copyright-transparency-report-overblocking-is-real/">YouTube Copyright Transparency Report: Overblocking is real | Kluwer Copyright Blog</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论强调需要采取现场手写考试和一对一面试来应对 AI 作弊。一些人分享了手写与打字的个人经历，而另一些人则批评校方反应迟缓。总体情绪是传统评估方式必须适应 AI 时代。
+**社区讨论**: 社区评论普遍支持让版权方承担责任，一些用户指出美国 DMCA 系统也存在类似问题。但仍有人对此持怀疑态度，认为版权垄断者往往能逃避后果，这种问责可能难以落实。
 
-**标签**: `#AI ethics`, `#academic integrity`, `#education`, `#cheating`, `#university assessment`
+**标签**: `#internet governance`, `#copyright`, `#censorship`, `#ISP`, `#policy`
 
 ---
 
 <a id="item-8"></a>
-## [京东方康宁玻璃基板合作推动股价暴涨 60%](https://36kr.com/p/3874045136720899?f=rss) ⭐️ 8.0/10
+## [Meta 利用 Instagram 照片为智能眼镜做广告](https://twitter.com/i/status/2071277885646868536) ⭐️ 8.0/10
 
-京东方与康宁于 2026 年 5 月 20 日签署合作备忘录，将在玻璃基封装载板等领域展开合作。此消息引发京东方股价自 2026 年 5 月下旬起上涨约 60%，创下 2009 年以来新高。 此次合作使京东方有望切入 AI 先进封装市场，可能将其估值从周期性面板业务中剥离。若成功，京东方或转型为拥有稳定现金流和 AI 增长期权的平台型公司。 京东方投资 9.93 亿元建设板级玻璃基封装载板试验线，2026 年上半年实现全自动化通线，设计产能 1000 片/月。公司已向国内客户送样，但大规模商业化预计还需 2-3 年，短期内不会对业绩产生重大影响。
+Meta 正在将 Instagram 用户的照片整合到其 Ray-Ban Meta 智能眼镜的广告中，无需用户明确同意，这重新引发了隐私讨论。这种做法与 Facebook 在 2013 年的类似政策如出一辙。 此举引发了重大的隐私担忧，因为它在未经直接同意的情况下利用用户生成的内容，可能会削弱用户对 Meta 平台的信任。这也凸显了社交媒体中盈利策略与用户权利之间的持续矛盾。 根据社区评论，Meta 的服务条款允许在商业内容中使用个人资料照片，这一做法可追溯到 Facebook 2013 年的政策。Ray-Ban Meta 眼镜于 2023 年发布，配备 1200 万像素摄像头和直播功能，但隐私问题已因指示灯较小而受到批评。
 
-rss · 36氪 · 6月29日 11:51
+hackernews · notRobot · 6月29日 13:26 · [社区讨论](https://news.ycombinator.com/item?id=48719027)
 
-**背景**: 玻璃基封装载板使用玻璃基板和玻璃通孔（TGV）技术实现芯片互连，具有低介电损耗和高尺寸稳定性等优点。目前主流封装载板为 BT 和 ABF 等有机材料，其中 ABF 用于高性能芯片。硅中介层配合 TSV 技术用于 CoWoS 等先进封装，但面临尺寸和成本限制。玻璃基板被视为下一代 AI 芯片封装的有力候选。
+**背景**: Ray-Ban Meta 智能眼镜是 Meta 与 Ray-Ban 联合开发的第二代产品，配备了改进的摄像头、音频和 Meta AI 集成。Instagram 拥有超过十亿的月活跃用户，使其成为广告中用户生成内容的丰富来源。Meta 将此类内容用于广告的做法从 Facebook 早期起就是一个反复出现的隐私问题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://alcantapcb.com/glass-package-substrates.html?lang=de">Glass Package Substrates Manufacturer</a></li>
-<li><a href="https://www.wonderfulpcb.com/blog/abf-substrates-vs-other-semiconductor-substrate-materials/">Comparison of ABF substrates with other semiconductor substrate materials</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Meta_glasses">Meta glasses</a></li>
+<li><a href="https://www.yellowhead.com/blog/user-generated-content-ugc-ads/">User Generated Content : Why Brands Love UGC... - yellowHEAD</a></li>
 
 </ul>
 </details>
 
-**标签**: `#BOE`, `#Corning`, `#glass packaging`, `#advanced packaging`, `#AI hardware`
+**社区讨论**: 评论者表达了沮丧和无奈，指出这种做法在服务条款下已持续多年。一些人强调了广告使用朋友照片的荒谬性，而另一些人建议离开该平台。还有少数人指出这与 Meta 去年使用照片进行 AI 训练的做法类似。
+
+**标签**: `#privacy`, `#meta`, `#instagram`, `#advertising`, `#smartglasses`
 
 ---
 
 <a id="item-9"></a>
-## [Sand.ai 获超亿美元融资，曹越谈视频为何是世界模型关键](https://36kr.com/p/3873965241931014?f=rss) ⭐️ 8.0/10
+## [Ornith-1.0：用于代理式编程的开源权重 LLM](https://simonwillison.net/2026/Jun/29/ornith/#atom-everything) ⭐️ 8.0/10
 
-Sand.ai 创始人曹越详解视频生成中的自回归与 MoE 架构选择，宣布将于 2026 年 Q3 发布新一代 MoE 模型，并透露公司已完成两轮合计超亿美元融资。 Sand.ai 的非共识路线挑战了主流的扩散范式，将视频作为通往世界模型的核心路径，可能重塑 AI 视频生成领域并加速统一模型的发展。 Sand.ai 的 Magi-1 模型在 Google DeepMind 的 Physics-IQ 基准测试中排名第一，超越了 Nvidia 的 Cosmos3-Super 和 Sora-2。公司还推出了音乐 Agent 产品 VidMuse，三个月内实现千万美元 ARR。
+DeepReinforce 发布了 Ornith-1.0 系列开源权重 LLM（MIT 许可），专为代理式编程设计，在编程基准测试上达到最优性能，模型规模最高达 397B 参数。 该发布提供了一个强大且采用宽松许可的编程模型，能够自主运行代理框架，可能加速 AI 辅助软件开发并减少对专有模型的依赖。 Ornith-1.0 提供四种变体：9B 密集、31B 密集、35B MoE 和 397B MoE，基于 Gemma 4（Apache 2.0）和 Qwen 3.5（Apache 2.0）构建。初步测试显示，35B GGUF 量化模型能够熟练处理多工具调用。
 
-rss · 36氪 · 6月29日 08:04
+rss · Simon Willison · 6月29日 16:17
 
-**背景**: 视频生成模型旨在从文本或其他输入创建逼真的视频。目前多数模型采用扩散架构，但 Sand.ai 主张使用自回归模型按序预测下一帧。混合专家（MoE）是一种架构，通过多个专门子模型提高效率和可扩展性。
+**背景**: 自脚手架 LLM 通过强化学习迭代生成脚手架代码，以提升模型在任务中的表现。代理式编程指 AI 代理自主规划、编写、测试和修改代码，人工干预极少。Ornith-1.0 结合了这些概念，创建了一个能在编程任务中自举推理链的模型。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://physics-iq.github.io/">Physics-IQ Benchmark: Do generative video models understand physical principles?</a></li>
-<li><a href="https://github.com/google-deepmind/physics-IQ-benchmark">GitHub - google-deepmind/physics-IQ-benchmark: Benchmarking physical understanding in generative video models · GitHub</a></li>
-<li><a href="https://medium.com/ramses-engineering/not-one-brain-but-many-how-mixture-of-experts-moe-makes-ai-smarter-and-faster-568f41220852">Not One Brain, But Many: How Mixture of Experts ( MoE )... | Medium</a></li>
+<li><a href="https://medium.com/data-science-in-your-pocket/ornith-1-0-self-learning-llm-for-coding-318c9a830bfc">Ornith 1.0 : Self Learning LLM for Coding | by Mehul Gupta | Medium</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Agentic_coding">Agentic coding</a></li>
+<li><a href="https://cloud.google.com/discover/what-is-agentic-coding">What is agentic coding? How it works and use cases | Google Cloud</a></li>
 
 </ul>
 </details>
 
-**标签**: `#video generation`, `#world model`, `#MoE architecture`, `#autoregressive model`, `#AI startup`
+**标签**: `#LLM`, `#open-source`, `#coding`, `#agentic`, `#deep-reinforce`
 
 ---
 
 <a id="item-10"></a>
-## [EML 树被证明是通用逼近器](https://www.reddit.com/r/MachineLearning/comments/1uipl1t/eml_trees_are_universal_approximators_r/) ⭐️ 8.0/10
+## [比亚迪自研智驾芯片璇玑 A3 预计 2027 年首搭](https://36kr.com/newsflashes/3874197541344262?f=rss) ⭐️ 8.0/10
 
-一篇新论文证明，基于基本函数 eml(x,y)=exp(x)-ln(y) 构建的 EML 类型树能够以任意精度逼近一般函数空间中的任何函数。 该结果确立了 EML 树作为函数逼近的理论基础框架，可能为表示具有显式符号结构的复杂函数提供神经网络的替代方案。 该证明使用 EML 作为构建模块构造了二元运算、多项式和单位分解，并通过基于符号的分解和仿射映射处理了自然对数的定义域限制。
+比亚迪宣布其自研智驾芯片璇玑 A3 将于 2027 年在腾势量产车上首次搭载。该芯片采用 4nm 工艺，单颗算力超 700 TOPS，三颗协同总算力超 2100 TOPS。 这标志着国产芯片在高端自动驾驶领域取得重大突破，比亚迪加入英伟达等巨头行列。此举有望降低对外国供应商的依赖，并加速 L3/L4 自动驾驶在大众市场车型中的普及。 该芯片支持 L3 和 L4 自动驾驶，并已开始量产。比亚迪称，璇玑 A3 单位算力功耗较同级产品低 20%，结合自研算法优化后，算力利用率提升 100%。
 
-reddit · r/MachineLearning · /u/JoeGermany · 6月29日 11:16
+rss · 36氪 · 6月29日 11:57
 
-**背景**: EML 函数（eml(x,y)=exp(x)-ln(y)）最近被证明可以通过复合生成所有初等函数。通用逼近定理（如神经网络的逼近定理）保证模型类可以在紧集上逼近任何连续函数。这项工作将该思想扩展到 EML 树，即 EML 函数以树状结构复合而成的形式。
+**背景**: 自动驾驶芯片如英伟达 Orin X 通常提供 254 TOPS 用于 L3 系统，而比亚迪 A3 单颗算力超 700 TOPS。4nm 工艺目前是半导体行业最先进工艺之一，此前主要由台积电等公司主导。比亚迪自主研发芯片反映了车企垂直整合以掌控关键部件的广泛趋势。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2606.23179">[2606.23179] EML Trees Are Universal Approximators</a></li>
-<li><a href="https://graphicmaths.com/pure/special-functions/universal-eml-function/">GraphicMaths - A universal elementary function , EML</a></li>
+<li><a href="https://finance.sina.com.cn/cj/2026-06-01/doc-inhzwckt8538724.shtml">24年半导体长跑：深度解析 比 亚 迪 璇 玑 A 3 与全产业链布局__财经头条</a></li>
+<li><a href="https://laoyaoba.com/n/1043032">比 亚 迪 发布中国首款4nm智驾 芯 片 璇 玑 A 3 ，官宣为城市领航安全兜底</a></li>
+<li><a href="http://www.smahz.com/612/2060007304748597248.htm">补齐智驾核心短板， 比 亚 迪 发布国产首款4nm...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#machine learning`, `#universal approximation`, `#EML trees`, `#functional analysis`
+**标签**: `#自动驾驶`, `#芯片`, `#比亚迪`, `#电动汽车`, `#智能驾驶`
 
 ---
 
 <a id="item-11"></a>
-## [Cerebras 与 OpenAI 交易排挤小型 AI 初创公司](https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/) ⭐️ 8.0/10
+## [EML 树被证明是通用逼近器](https://www.reddit.com/r/MachineLearning/comments/1uipl1t/eml_trees_are_universal_approximators_r/) ⭐️ 8.0/10
 
-一家小型 AI 初创公司报告称，Cerebras 与 OpenAI 达成的 200 亿美元交易预先分配了 Cerebras 近期大部分推理能力，使得小型企业的 Cerebras API 等待列表实际上无限长。 这凸显了一个日益严重的问题：超大规模企业与 AI 硬件制造商之间的大额计算交易将小型玩家排除在外，可能抑制 AI 应用领域的创新和竞争。 该初创公司需要为编码代理提供每秒 1-2k token 的实时推理能力，并已等待数月。Cerebras 近期上市，但其大部分产能已被 OpenAI 交易占用。
+研究人员证明了 EML 树（初等函数的组合）是连续函数的通用逼近器，这一结果与神经网络的经典结论相平行。 这一理论结果扩展了已知通用逼近器的架构集合，为超越神经网络的函数逼近提供了新视角，并可能启发新型机器学习模型。 该证明（详细见论文附录）显式构造了二元运算、多项式、双曲正切和近似单位划分的 EML 表示，并将它们用作模块。一个技术难题在于自然对数对非正输入无定义，通过符号分解和仿射映射得到解决。
 
-reddit · r/MachineLearning · /u/Kortopi-98 · 6月29日 12:00
-
-**背景**: Cerebras 制造晶圆级引擎（WSE），这是全球最大的 AI 处理器，专为高性能训练和推理设计。像 Cerebras 这样的 ASIC 推理芯片针对特定工作负载进行了优化，与通用 GPU 相比提供高吞吐量和低延迟。
+reddit · r/MachineLearning · /u/JoeGermany · 6月29日 11:16
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Cerebras">Cerebras - Wikipedia</a></li>
-<li><a href="https://www.cerebras.ai/chip">Product - Chip - Cerebras</a></li>
-<li><a href="https://cerebras.ai/product-cluster/">Product Cluster - Cerebras</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem">Universal approximation theorem</a></li>
+<li><a href="https://github.com/Brumbelow/uninum/blob/main/docs/eml_explained.md">uninum/docs/ eml _explained.md at main · Brumbelow/uninum · GitHub</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI hardware`, `#Cerebras`, `#OpenAI`, `#inference`, `#startup challenges`
+**标签**: `#machine learning`, `#approximation theory`, `#universal approximation`, `#EML trees`, `#theoretical result`
 
 ---
 
 <a id="item-12"></a>
-## [可编辑权重的极小 Transformer 交互学习工具](https://www.reddit.com/r/MachineLearning/comments/1uhw7fu/i_shrank_a_transformer_until_every_number_fitted/) ⭐️ 8.0/10
+## [长鑫存储与腾讯签近 30 亿美元 DRAM 供应协议](https://www.reuters.com/world/china/chinas-cxmt-wins-3-billion-memory-supply-deal-with-tencent-sources-say-2026-06-29/) ⭐️ 8.0/10
 
-作者制作了一个独立的 HTML 文件，可视化了一个最小 Transformer（单注意力头、单块、6 词词汇表、3 维嵌入）的完整前向传播过程，并允许实时编辑权重和词向量。 该交互式工具将抽象的 Transformer 数学变得具体可操作，为学习者和教育者提供了一个前所未有的理解内部机制的深度教学资源。 页面包含可编辑的权重和词向量、随机化按钮，并实时重新计算整个前向传播（Q/K/V、注意力分数、因果掩码、softmax、前馈网络、logits 和概率），全部在一个无依赖的自包含 HTML 文件中实现。
-
-reddit · r/MachineLearning · /u/DanielMoGo · 6月28日 12:35
-
-**背景**: Transformer 是大型语言模型的核心架构，通过注意力机制（QKV）评估输入标记的重要性，并通过因果掩码防止生成时泄露未来标记。该可视化通过展示每一个中间值来揭示这些操作的原理。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://hexiao5886.medium.com/day-4-100-causal-masking-in-transformers-a-deep-dive-into-masked-attention-43a7ece5fc1f">Day(4/100) Causal Masking in Transformers : A Deep Dive... | Medium</a></li>
-<li><a href="https://mbrenndoerfer.com/writing/query-key-value-attention-mechanism">Query, Key, Value: The Foundation of Transformer Attention ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#transformer`, `#education`, `#interactive visualization`, `#machine learning`, `#forward pass`
-
----
-
-<a id="item-13"></a>
-## [三星与 SK 海力士计划 6480 亿美元 AI 投资](https://t.me/zaihuapd/42235) ⭐️ 8.0/10
-
-三星和 SK 海力士将于 6 月 29 日在韩国总统主持的国家简报会上宣布大规模 AI 相关投资，三星计划实施 1000 万亿韩元（约 6480 亿美元）的十年支出方案，为韩国史上最大规模；SK 海力士则计划五年内将产能翻倍，并通过美国上市筹资 290 亿美元。 这一投资表明对 AI 硬件和半导体制造的重大承诺，可能重塑全球 AI 供应链并加剧内存和 AI 芯片领域的竞争，尽管市场反应负面，两家公司股价同日均下跌超过 9%。 此次公告将聚焦半导体、AI 数据中心和物理 AI（Physical AI），物理 AI 指与物理世界交互的 AI 系统，如机器人和自动驾驶汽车。三星的计划是十年 1000 万亿韩元，而 SK 海力士则信号表明五年内产能翻倍并计划在美上市筹资 290 亿美元。
-
-telegram · zaihuapd · 6月29日 07:00
-
-**背景**: 三星和 SK 海力士是全球领先的内存芯片制造商，生产对 AI 训练和推理至关重要的 DRAM 和 NAND 闪存。物理 AI 是一个新兴领域，将 AI 与机器人技术相结合，使机器能够感知并在现实世界中行动。韩国政府正在积极支持国内半导体投资，以在 AI 驱动的全球芯片需求中保持竞争优势。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.winzheng.jp/article/physical-ai-moment-everyone-wants">物 理 AI ... | Winzheng AI ニュース</a></li>
-<li><a href="https://www.winzheng.com/article/physical-ai-moment-everyone-wants">物 理 AI 迎来爆发时刻，各方争相抢占先机 | 赢政天下</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductor`, `#AI hardware`, `#investment`, `#Samsung`, `#SK Hynix`
-
----
-
-<a id="item-14"></a>
-## [算法误判，普朗克 1940 年代论文被撤稿](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/) ⭐️ 8.0/10
-
-物理学家马克斯·普朗克两篇 1940 年代的论文被期刊《自然科学》撤稿并删除，很可能是自动检测系统将其误判为违规。历史学家伊夫·金格拉斯发现此事并发布了预印本揭露。 这一事件凸显了学术出版中算法内容审核的严重缺陷，自动系统缺乏历史背景判断，可能错误撤稿合法经典论文。它引发了关于人工复核必要性和历史科学文献保存的质疑。 被撤论文被从期刊网站彻底删除，仅留下标注“因文章违规而被撤回”的空白页面。现任主编表示不知情，推测是自动检测系统误判，并承诺纠正。
-
-telegram · zaihuapd · 6月29日 08:46
-
-**背景**: 学术期刊有时会使用自动系统筛查论文的抄袭、造假等不当行为。然而，这些算法可能产生误报，尤其是对于不遵循现代格式规范的旧论文。此次事件中，删除前缺少人工审核，导致量子理论奠基人马克斯·普朗克的历史性重要论文被错误撤稿。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Retraction_Watch">Retraction Watch</a></li>
-<li><a href="https://qubicresearch.com/how-to-reduce-ai-detection-in-academic-writing/">How to Reduce AI Detection in Academic Writing?</a></li>
-
-</ul>
-</details>
-
-**标签**: `#academic publishing`, `#algorithm bias`, `#retraction`, `#Max Planck`, `#scientific integrity`
-
----
-
-<a id="item-15"></a>
-## [长鑫存储与腾讯签 30 亿美元 DRAM 供应协议](https://www.reuters.com/world/china/chinas-cxmt-wins-3-billion-memory-supply-deal-with-tencent-sources-say-2026-06-29/) ⭐️ 8.0/10
-
-中国 DRAM 制造商长鑫存储（CXMT）与腾讯签署了一份多年期服务器 DRAM 供应协议，价值超过 200 亿元人民币（约 29.4 亿美元）。 这项交易加强了中国在云端和 AI 基础设施领域的本土半导体供应链，减少了对三星、SK 海力士等国外内存供应商的依赖。 据消息人士透露，该协议覆盖服务器 DRAM 芯片，期限为三到五年。长鑫存储据称还在与其他中国科技公司谈判，包括阿里云、字节跳动和小米。
+长鑫存储（CXMT）已与腾讯签署一项价值超 200 亿元人民币（约 29.4 亿美元）的长期 DRAM 内存供应协议，覆盖数年服务器供货。三位知情人士披露了此前未报道的交易，合约期限为 3 至 5 年。 该协议凸显了中国推动半导体自主化的战略意图，可能重塑全球 DRAM 供应链。同时也表明长鑫存储作为重要内存制造商的能力提升，有助于中国科技巨头减少对外国供应商的依赖。 合约期限尚不确定，两位消息人士称三年，另一位称五年。据传长鑫存储还在与其他中国互联网公司谈判，包括阿里云、字节跳动和小米。
 
 telegram · zaihuapd · 6月29日 09:31
 
-**背景**: 长鑫存储是中国领先的 DRAM 制造商，总部位于合肥，专注于 DRAM 芯片设计与生产。DRAM（动态随机存取内存）是云计算和 AI 工作负载中服务器的关键组件。此协议凸显了中国在全球贸易限制下推动半导体自给自足的努力。
+**背景**: DRAM（动态随机存取存储器）是一种易失性内存，广泛应用于服务器、个人电脑等设备。长鑫存储（CXMT）是中国领先的 DRAM 制造商，专注于设计、研发和生产。该协议正值全球半导体供应链紧张之际，中国正寻求内存芯片自主可控，尤其在另一中国芯片企业长江存储（YMTC）遭遇挫折之后。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://zh.wikipedia.org/zh-cn/长鑫存储">长 鑫 存 储 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.dianzinav.com/sites/3286.html">CXMT ( 长 鑫 存 储 ) - 专注DRAM的设计、研发、生产与销售。 - 电子人导航</a></li>
+<li><a href="https://gaohaojun.cn/Blog/2026/01/21/红色内存潮流长鑫存储的战略分析和围绕DRAM的地缘政治斗争/">内 存 的赤色潮流： 长 鑫 存 储 （ CXMT ... - Gao Haojun</a></li>
 
 </ul>
 </details>
 
-**标签**: `#DRAM`, `#semiconductor`, `#China`, `#cloud computing`, `#AI infrastructure`
+**标签**: `#DRAM`, `#China`, `#Tencent`, `#semiconductor`, `#supply chain`
 
 ---
